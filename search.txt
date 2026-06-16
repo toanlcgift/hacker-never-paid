@@ -1,0 +1,6 @@
+LocalAI API
+DeepSeek
+Gemini
+Qwen
+OpenAI App
+Ollama is running
