@@ -6,3 +6,5 @@ OpenAI App
 Ollama is running
 LiteLLM API
 MLflow
+API for LLMs
+New API
