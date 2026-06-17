@@ -4,3 +4,5 @@ Gemini
 Qwen
 OpenAI App
 Ollama is running
+LiteLLM API
+MLflow
